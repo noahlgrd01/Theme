@@ -1,0 +1,21 @@
+{
+    "name": "Fl-ty",
+    "displayName": "Fléty",
+    "description": "Theme created by NoahLgrd",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Fléty",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Fléty-color-theme.json"
+            }
+        ]
+    }
+}
